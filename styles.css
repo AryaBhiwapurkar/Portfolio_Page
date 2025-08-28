@@ -685,7 +685,7 @@ header.sticky ul li a{
         color:#000000;
 }
 
-.activities .a-content{
+.achievements .a-content{
         /* display: flex; */
         justify-content: center;
         /* flex-wrap: wrap; */
@@ -693,14 +693,14 @@ header.sticky ul li a{
         align-content: center;
         align-items: center;
 }
-.activities .a-content{
+.achievements .a-content{
         display: flex;
         justify-content: center;
         flex-wrap: wrap;
         flex-direction: row;
 }
 
-.activities .a-content .abox{
+.achievements .a-content .abox{
         padding: 20px 20px;
         background-color: #146486;
         color: #fff;
@@ -718,16 +718,16 @@ header.sticky ul li a{
                 inset 50px 50px 50px rgba(0,0,0,0.1);
 }
 
-.activities .a-content .abox:hover{
+.achievements .a-content .abox:hover{
         background-color: #000000;
 
 }
 
-.activities .a-content .abox img{
+.achievements .a-content .abox img{
         max-width: 80px;
 }
 
-.activities .a-content .abox h4{
+.achievements .a-content .abox h4{
         font-size: 15px;
         font-weight: 400;
         text-transform: uppercase;
@@ -1006,7 +1006,7 @@ header.sticky ul li a{
         .projects .content .pbox{
                 margin: 10px;
         }
-        .activities .a-content .abox{
+        .achievements .a-content .abox{
                 margin: 10px;
         }
 
